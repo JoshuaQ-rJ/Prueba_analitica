@@ -1,0 +1,207 @@
+ID_Venta,Marca,Pais_Origen,Tipo_Carroceria,Tipo_Combustible,Caballos_Fuerza,Precio_Catalogo_Original,Sede,Ciudad_Sede,Precio_Construccion,Precio_Publico,Cantidad_Vendida,Anio_Venta
+1,alfa-romero,Italia,convertible,gas,111.0,13495.0,CarWorld Pacifico, cali  ,8512.0,14204.0,143,2025
+2,ALFA-ROMERO,ITALIA, convertible  ,gas,,16500.0,VelocityMotors,  BUCARAMANGA   ,9289.0,19214.0,121,2023.0
+3,Alfa-Romero,Italia,HATCHBACK,gas,154.0,16500.0,DriveHub Caribe,BARRANQUILLA,9913.0,19322.0,140,2026
+4,AUDI,alemania, sedan  ,GAS,102.0,13950.0, VelocityMotors  ,Bucaramanga,8361.0,15372.0,147,2026
+5,Audi,Alemania,sedan,GAS,115.0,17450.0,VelocityMotor,Bucaramanga,12028.0,19539.0,81,2023.0
+6,audi,Alemania,sedan,gas,110.0,"$15,250",MOTORCENTER SUR,Medellin,10560.0,17499.0,138 u,2025
+7, AUDI  ,ALEMANIA,SEDAN,GAS,110.0,17710.0,DriveHub Caribe,  barranquilla  ,10265.0,18723.0,129,2026
+8, Audi  ,Alemania,WAGON,GAS,110.0,18920.0,drivehub caribe,BARRANQUILLA,14181.0,22560.0,135,2024
+9,AUDI,Alemania,SEDAN,GAS,140.0,"$23,875",DriveHub Caribe,barranquilla,14405.0,"$28,244",90,01/01/2023
+10,bmw,ALEMANIA,sedan,Gas,101.0,"$16,430",VelocityMotors,bucaramanga,12246.0,17894.0,178,2023
+11,BMW,alemania,SEDAN,,101.0,16925.0,carworld pacifico,CALI,10700.0,17810.0,162,2023
+12,BMW,Alemania,SEDAN,,121.0,"$20,970",Drive Hub Caribe, barranquilla  ,11672.0,"$24,955",106,2026
+13,  bmw   ,ALEMANIA, sedan  ,gas,121.0,21105.0,PrimeAuto Andino,pereira,13064.0,23746.0,134 u,2026.0
+14,Bmw,Alemania,Sedan,gas,121.0,24565.0,VelocityMotors,Bucaramanga,16627.0,27781.0,108 u,2023.0
+15,BMW,alemania,  sedan  ,gas,182.0,"$30,760",MOTORCENTER SUR,Medellin,21106.0,35454.0,73,2024.0
+16,BMW,Alemania,sedan,GAS,182.0,41315.0,CARWORLD PACIFICO,,,47197.0,34,2024
+17,Bmw,ALEMANIA,sedan,GAS,182.0,36880.0,PRIMEAUTO ANDINO,PEREIRA,,"$43,946",36,01/01/2024
+18,Chevrolet,Estados Unidos, hatchback  ,gas,48.0,5151.0,PrimeAuto Andino,Pereira,3403.0,"$6,138",192 unidades,2026
+19,Chevrolet,Estados Unidos,Hatchback,gas,70.0,"$6,295",Motor Center Sur,medellin,4208.0,7429.0,195,2024
+20,chevrolet,ESTADOS UNIDOS,sedan,gas,70.0,"$6,575",CARWORLD PACIFICO,  cali   ,3723.0,"$7,531",213,2024
+21,Dodge,estados unidos,hatchback,GAS,68.0,"$5,572",VelocityMotors,  BUCARAMANGA   ,3477.0,6520.0,190 u,2024
+22,DODGE,Estados Unidos,HATCHBACK,gas,68.0,6377.0,AutoPlaza Norte,bogota,3816.0,7344.0,176,2025.0
+23,  Dodge   ,estados unidos,hatchback,Gas,,7957.0,CarWorld Pacifico,,5654.0,9039.0,146,2024
+24,dodge,ESTADOS UNIDOS,hatchback,gas,68.0,"$6,229",motorcenter sur,  Medellin  ,4012.0,"$6,661",215 u,2026
+25,DODGE,ESTADOS UNIDOS,SEDAN,gas,68.0,6692.0,Primeauto Andino,PEREIRA,4997.0,7841.0,177,
+26,DODGE,ESTADOS UNIDOS,Sedan,gas,68.0,7609.0,VELOCITYMOTORS,Bucaramanga,4792.0,8926.0,185 u,2026
+27,dodge,Estados Unidos,Sedan,gas,102.0,8558.0,CARWORLD PACIFICO,,6104.0,9789.0,202,2025
+28,Dodge,Estados Unidos,wagon,GAS,88.0,"$8,921",  AutoPlaza Norte   ,bogota,6331.0,"$10,465",174 unidades,2023
+29,DODGE,Estados Unidos,HATCHBACK,gas,145.0,12964.0,Autoplaza Norte,BOGOTA,7521.0,"$14,879",150 unidades,2025.0
+30,Honda,JAPON, hatchback  ,gas,58.0,6479.0,DriveHub Caribee,  barranquilla  ,,7004.0,206,2026
+31,Honda,Japon,HATCHBACK,Gas,76.0,"$6,855",DriveHub Caribe,BARRANQUILLA,4724.0,7479.0,189,01/01/2026
+32, honda  ,JAPON,  hatchback  ,gas,60.0,5399.0,motorcenter sur,MEDELLIN,3896.0,"$5,843",198 unidades,2025
+33,Honda,Japon,hatchback,gas,76.0,"$6,529",CarWorld Pacifico,cali,4017.0,"$7,225",161,2025
+34,HONDA,Japon,hatchback,GAS,76.0,7129.0,CarWorld Pacifico,CALI,4235.0,7527.0,200,2026
+35,  HONDA   ,japon,sedan,GAS,76.0,7295.0,Prime Auto Andino, Pereira  ,5050.0,"$8,336",185,2025.0
+36,HONDA,Japon,wagon,GAS,76.0,7295.0,PrimeAuto Andiino,,5193.0,"$8,028",160 unidades,01/01/2023
+37,Honda,Japon,HATCHBACK,GAS,86.0,7895.0,primeauto andino,Pereira,4893.0,9066.0,183 u,2026
+38,honda,Japon,HATCHBACK,gas,,9095.0,DRIVEHUB CARIBE,Barranquilla,5177.0,10076.0,141,2024
+39,  honda   ,Japon,sedan,Gas,86.0,8845.0,Carworld Pacifico,Cali,6529.0,"$10,192",207,2025
+40,Honda,JAPON,sedan,gas,86.0,"$10,295",  carworld pacifico  ,Cali,6481.0,11336.0,150 unidades,2024
+41,honda,Japon,sedan,gas,101.0,"$12,945",autoplaza norte,bogota,8460.0,"$14,098",180,01/01/2023
+42,honda,Japon,Sedan,gas,100.0,"$10,345",DRIVEHUB CARIBE,barranquilla,,11632.0,153,2024
+43,Isuzu,japon,SEDAN,Gas,78.0,6785.0,VelocityMotors,Bucaramanga,4649.0,7829.0,189,2026
+44,Isuzu,Japon, hatchback  ,GAS,90.0,11048.0, drivehub caribe  ,BARRANQUILLA,7701.0,"$12,178",150,2024
+45,JAGUAR,reino unido,sedan,gas,176.0,32250.0,velocitymotors,Bucaramanga,19086.0,38394.0,72,2024
+46,Jaguar,Reino Unido,sedan,gas,176.0,"$35,550",Autoplaza Norte,Bogota,23402.0,37536.0,57,2024.0
+47,Jaguar,Reino Unido,  sedan  ,gas,262.0,36000.0,  MotorCenter Sur   ,  MEDELLIN  ,24810.0,40057.0,58,2025
+48,Mazda,japon,hatchback,GAS,68.0,5195.0,  carworld pacifico   ,Cali,3095.0,"$6,209",188,01/01/2026
+49,Mazda,Japon,HATCHBACK,gas,68.0,6095.0,AutoPlaza Norte,Bogota,3566.0,6901.0,164,2025
+50,mazda,japon,HATCHBACK,gas,68.0,"$6,795",Carworld Pacifico,Cali,5072.0,7566.0,190,2025
+51,Mazda,JAPON,  SEDAN   ,gas,,6695.0,Primeauto Andino,Pereira,4374.0,7601.0,174,2026.0
+52,MAZDA,Japon,Sedan,gas,68.0,7395.0, Motorcenter Sur  ,Medellin,4453.0,8404.0,194,01/01/2025
+53, mazda  ,JAPON,hatchback,GAS,101.0,10945.0, MOTORCENTER SUR  ,MEDELLIN,8201.0,"$12,693",158,2024
+54,Mazda,Japon, hatchback  ,gas,,11845.0,autoplaza norte,Bogota,8802.0,12664.0,160,2024
+55, MAZDA  ,japon,  hatchback   ,GAS,101.0,"$13,645",MOTORCENTER SUR,Medellin,9028.0,14839.0,178 unidades,2024
+56,mazda,Japon,Hatchback,GAS,135.0,15645.0,VELOCITYMOTORS,,11367.0,"$17,790",176,
+57,MAZDA,Japon,hatchback,gas,84.0,8845.0,MotorCenter Sur,Medellin,5199.0,10438.0,182 unidades,2025
+58,Mazda,Japon,sedan,Gas,84.0,8495.0,CARWORLD PACIFICO,Cali,5146.0,"$9,636",169,2026
+59,Mazda,Japon,Hatchback,gas,84.0,10595.0,carworld pacifico,Cali,7311.0,11504.0,161,2024.0
+60,Mazda,japon,SEDAN,gas,84.0,10245.0,Car World Pacifico,Cali,7370.0,11802.0,153,2025
+61,Mazda,JAPON,sedan,diesel,64.0,10795.0,Carworld Pacifico,Cali,7786.0,12533.0,153,2025
+62,mazda,JAPON,HATCHBACK,gas,84.0,"$11,245",velocitymotors,Bucaramanga,7094.0,12209.0,159,2024.0
+63,Mazda,JAPON, sedan  ,gas,120.0,"$18,280",Drivehub Caribe,BARRANQUILLA,13300.0,20230.0,160,2026
+64, Mazda  ,Japon,Sedan,diesel,72.0,18344.0,Primeauto Andino,PEREIRA,13211.0,"$20,731",126,2025
+65,Mercedes-Benz,alemania,sedan,diesel,123.0,25552.0,AutoPlaza Norte,  BOGOTA   ,18835.0,28733.0,78,2024.0
+66,  mercedes-benz   ,Alemania,WAGON,DIESEL,123.0,28248.0,CARWORLD PACIFICO,cali,19973.0,"$31,311",87,2026.0
+67,Mercedes-Benz,Alemania,hardtop,Diesel,123.0,28176.0,Motorcenter Sur,MEDELLIN,19267.0,30843.0,91,2025
+68,Mercedes-Benz,ALEMANIA,  Sedan  ,Diesel,123.0,31600.0,CARWORLD PACIFICO,Cali,21050.0,"$33,654",77,2025
+69,mercedes-benz,ALEMANIA, sedan  ,GAS,155.0,34184.0,motorcenter sur,Medellin,21346.0,36167.0,78,2025
+70,Mercedes-Benz,Alemania,CONVERTIBLE,gas,155.0,35056.0,PrimeAuto Andino,Pereira,25872.0,41849.0,44,2025
+71,MERCEDES-BENZ,ALEMANIA,SEDAN,GAS,184.0,40960.0,Primeauto Andino,  Pereira   ,30504.0,48213.0,29 u,2026
+72,Mercedes-Benz,ALEMANIA,Hardtop,GAS,184.0,"$45,400",Primeauto Andino,Pereira,27548.0,50087.0,1,2023
+73,Mercury,estados unidos,Hatchback,gas,175.0,16503.0,MotorCenter Sur,medellin,10085.0,19697.0,160,2024
+74,Mitsubishi,JAPON,hatchback,Gas,68.0,5389.0,CarWorld Pacifico,CALI,3487.0,6206.0,191,2023
+75,Mitsubishi,japon,HATCHBACK,gas,68.0,"$6,189",primeauto andino,Pereira,3959.0,6946.0,191,2026
+76,mitsubishi,JAPON,Hatchback,,68.0,6669.0,Velocitymotors,Bucaramanga,4994.0,7496.0,171,2024.0
+77,mitsubishi,Japon,HATCHBACK,GAS,102.0,"$7,689", Motorcenter Sur  ,Medellin,4499.0,8170.0,187,2026
+78,Mitsubishi,Japon,hatchback,gas,116.0,9959.0,Motorcenter Sur,Medellin,5513.0,"$10,594",180,2025
+79,MITSUBISHI,JAPON,  hatchback  ,,,8499.0,Car World Pacifico,Cali,5514.0,"$9,692",156,2026
+80,mitsubishi,Japon,hatchback,GAS,145.0,"$12,629",motorcenter sur,MEDELLIN,7398.0,14309.0,130 unidades,2026
+81,MITSUBISHI,japon,Hatchback,gas,145.0,"$14,869", Motorcenter Sur  ,Medellin,9268.0,16087.0,152,2026
+82,MITSUBISHI,JAPON,hatchback,GAS,145.0,14489.0,primeauto andino, pereira  ,10125.0,17270.0,136 unidades,2026
+83,MITSUBISHI,Japon,  sedan  ,gas,88.0,"$6,989",CarWorld Pacifico,CALI,4852.0,"$8,158",184,2025
+84,Mitsubishi,JAPON,SEDAN,Gas,88.0,8189.0,PrimeAuto Andino,pereira,,8738.0,158,
+85,MITSUBISHI,JAPON,SEDAN,GAS,116.0,"$9,279",PrimeAuto Andino,Pereira,6110.0,11039.0,145 unidades,2024
+86,MITSUBISHI,JAPON,sedan,GAS,116.0,9279.0,  CarWorld Pacifico   ,CALI,6048.0,11099.0,171,2024
+87,nissan,Japon,sedan,gas,69.0,5499.0,autoplaza norte,Bogota,3724.0,6595.0,181,
+88,Nissan,Japon,sedan,Diesel,55.0,7099.0,Primeauto Andino,Pereira,,"$7,513",151,2025
+89, NISSAN  ,Japon,  SEDAN   ,Gas,69.0,6649.0,VelocityMotors,bucaramanga,4441.0,7717.0,202,2024
+90,nissan,japon,sedan,GAS,69.0,6849.0,VelocityMotors,bucaramanga,,"$7,752",162,2025
+91,Nissan,japon,wagon,GAS,69.0,7349.0,MOTORCENTER SUR,medellin,4757.0,"$8,495",217 u,2026
+92,Nissan,JAPON,sedan,,69.0,7299.0,VELOCITYMOTORS,Bucaramanga,5337.0,8724.0,168,2025
+93,Nissan,Japon,hatchback,gas,69.0,7799.0,motorcenter sur,Medellin,4967.0,8994.0,182,2026
+94,Nissan,Japon,sedan,,69.0,7499.0,AutoPlaza Nrote,Bogota,4649.0,8815.0,202 unidades,2026
+95,nissan,japon,wagon,gas,69.0,7999.0,  CARWORLD PACIFICO  ,Cali,5431.0,9439.0,197 unidades,2026
+96,nissan,Japon,HARDTOP,gas,69.0,8249.0,CARWORLD PACIFICO,CALI,5641.0,9699.0,203,2025
+97,nissan,japon,HATCHBACK,gas,97.0,8949.0,CarWorld Pacifico, CALI  ,6469.0,9968.0,150,2026
+98,Nissan,Japon,sedan,Gas,97.0,9549.0,Velocity Motors,bucaramanga,5692.0,10345.0,154,2026
+99,Nissan,Japon,sedan,gas,152.0,"$13,499",AutoPlaza Norte,Bogota,8772.0,"$14,977",156,2026.0
+100,NISSAN,JAPON,  wagon   ,gas,152.0,14399.0,VELOCITYMOTORS,bucaramanga,9567.0,17045.0,156,2023
+101,NISSAN,Japon,SEDAN,gas,152.0,13499.0,VelocityMotors,Bucaramanga,9499.0,"$14,471",154,2025
+102,NISSAN,JAPON,hatchback,gas,160.0,17199.0,AutoPlaza Norte,BOGOTA,9609.0,19383.0,110,2024
+103,NISSAN,Japon,hatchback,gas,200.0,19699.0,AUTOPLAZA NORTE,BOGOTA,14753.0,21373.0,134,2023
+104,nissan,japon, Hatchback  ,GAS,160.0,"$18,399",AutoPlaza Norte,bogota,11849.0,20923.0,125,2025
+105,Peugot,FRANCIA,SEDAN,gas,97.0,"$11,900",AutoPlaza Norte,Bogota,7210.0,14036.0,153,01/01/2026
+106,peugot,FRANCIA,sedan,DIESEL,95.0,13200.0,CARWORLD PACIFICO,Cali,9592.0,15603.0,115,01/01/2026
+107, PEUGOT  ,Francia,wagon,GAS,97.0,12440.0,  DriveHub Caribe   ,Barranquilla,8702.0,13504.0,170,2023
+108,peugot,FRANCIA,wagon,diesel,95.0,13860.0,drivehub caribe,barranquilla,10265.0,"$16,440",148,2026.0
+109, peugot  ,Francia,SEDAN,gas,95.0,15580.0,autoplaza norte,Bogota,9600.0,17742.0,168,2025.0
+110,Peugot,Francia,SEDAN,diesel,95.0,16900.0,DriveHub Caribe,,11163.0,18633.0,136,2026
+111,Peugot,FRANCIA,wagon,gas,95.0,16695.0,DriveHub Caribe,barranquilla,11093.0,19303.0,143,2026
+112,Peugot,FRANCIA,  wagon  ,diesel,95.0,17075.0,AUTOPLAZA NORTE,BOGOTA,12739.0,"$19,162",148 unidades,2025
+113,Peugot,Francia,sedan,gas,97.0,16630.0,Drive Hub Caribe,Barranquilla,9397.0,"$18,404",112,
+114,Peugot,Francia,sedan,DIESEL,95.0,17950.0,Velocitymotors,BUCARAMANGA,10970.0,20746.0,168,
+115,Peugot,Francia,SEDAN,GAS,142.0,"$18,150",motorcenter sur, Medellin  ,10676.0,19735.0,126,2024
+116,PLYMOUTH,Estados Unidos,HATCHBACK,Gas,,5572.0,MOTORCENTER SUR,  Medellin   ,3364.0,6127.0,195,2023
+117, Plymouth  ,ESTADOS UNIDOS,hatchback,Gas,102.0,7957.0,autoplaza norte,BOGOTA,5149.0,"$8,873",186,01/01/2026
+118,Plymouth,estados unidos,hatchback,gas,68.0,6229.0,CarWorld Pacifco,cali,3890.0,"$6,777",173,2024.0
+119,Plymouth,estados unidos,  sedan   ,GAS,68.0,6692.0,AUTOPLAZA NORTE, Bogota  ,4209.0,"$7,433",210,2026
+120,  Plymouth   ,ESTADOS UNIDOS,SEDAN,Gas,68.0,7609.0,Carworld Pacifico,Cali,,"$8,642",182,
+121,plymouth,Estados Unidos,wagon,gas,88.0,8921.0,motorcenter sur,medellin,6566.0,10359.0,168,2026
+122,plymouth,Estados Unidos,HATCHBACK,,145.0,12764.0,AUTOPLAZA NORTE,bogota,7200.0,14871.0,155,2024
+123,PORSCHE,Alemania, hatchback  ,GAS,,22018.0,primeauto andino,PEREIRA,13030.0,"$25,836",120,2026
+124,Porsche,ALEMANIA,HARDTOP,gas,207.0,32528.0,Velocitymotors,Bucaramanga,22257.0,37786.0,60,2026
+125,PORSCHE,Alemania,HARDTOP,Gas,207.0,34028.0,Drivehub Caribe,BARRANQUILLA,21156.0,39206.0,67,2023
+126,PORSCHE,Alemania,  CONVERTIBLE   ,gas,207.0,"$37,028",CARWORLD PACIFICO,  Cali   ,22248.0,"$40,199",25 unidades,
+127, RENAULT  ,francia, wagon  ,GAS,,"$9,295",PrimeAuto Andino,  PEREIRA   ,5661.0,10318.0,160,2026
+128,RENAULT,Francia,hatchback,gas,,9895.0,DriveHub Caribe,,6081.0,11099.0,136,2025
+129,saab,suecia,hatchback,gas,110.0,11850.0,DriveHub Caribe,Barranquilla,8529.0,12590.0,192,2024.0
+130,SAAB,SUECIA,  sedan   ,gas,110.0,"$12,170",AUTOPLAZA NORTE,BOGOTA,7026.0,13743.0,187,01/01/2025
+131,SAAB,SUECIA,hatchback,GAS,110.0,15040.0,drivehub caribe,Barranquilla,10404.0,16776.0,154 unidades,2025
+132,SAAB,SUECIA,sedan,GAS,110.0,15510.0,VELOCITYMOTORS,Bucaramanga,10245.0,18152.0,124,2026
+133,SAAB,SUECIA,hatchback,gas,160.0,18150.0,PrimeAuto Andino,Pereira,11059.0,21720.0,161,2025
+134,saab,suecia,SEDAN,gas,160.0,18620.0,drivehub caribe,Barranquilla,11804.0,"$21,104",118,2025
+135,SUBARU,Japon, hatchback  ,gas,69.0,5118.0,AUTOPLAZA NORTE,BOGOTA,3077.0,5622.0,187,2024
+136,Subaru,Japon,hatchback,GAS,73.0,7053.0,  velocitymotors   ,Bucaramanga,4742.0,7452.0,185,2025
+137,Subaru,Japon,HATCHBACK,gas,73.0,7603.0,MotorCenter Sur,medellin,,9038.0,183,2025.0
+138,SUBARU,Japon,  sedan   ,gas,82.0,"$7,126",PrimeAuto Andino,PEREIRA,3927.0,"$8,465",188 unidades,2023
+139,subaru,japon, sedan  ,gas,82.0,"$7,775",drivehub caribe,BARRANQUILLA,5253.0,8459.0,189 u,2026
+140,subaru,Japon,sedan,Gas,94.0,9960.0,  AUTOPLAZA NORTE   ,  bogota   ,5865.0,11497.0,164,
+141,subaru,japon,sedan,gas,82.0,9233.0,MotorCenter Sur,medellin,5209.0,"$9,799",183,2025
+142,SUBARU,Japon,SEDAN,GAS,111.0,"$11,259",  Motorcenter Sur   ,medellin,7086.0,"$12,103",161 unidades,2026
+143,Subaru,Japon, WAGON  ,gas,82.0,7463.0,CarWorld Pacifico,,4180.0,"$8,079",189 unidades,2025.0
+144,Subaru,japon,wagon,GAS,94.0,10198.0,VELOCITYMOTORS,  bucaramanga  ,7417.0,11158.0,175,01/01/2026
+145,subaru,Japon, wagon  ,gas,82.0,"$8,013",DRIVEHUB CARIBE,barranquilla,4451.0,"$9,611",185,2025
+146,subaru,Japon,wagon,gas,111.0,11694.0,AutoPlaza Nrote,Bogota,7786.0,13501.0,168,
+147, TOYOTA  ,JAPON,HATCHBACK,gas,62.0,5348.0,carworld pacifico,CALI,3410.0,5924.0,182,2025
+148,TOYOTA,Japon, hatchback  ,GAS,62.0,6338.0,Velocity Motors,Bucaramanga,4338.0,"$7,356",190,01/01/2025
+149,toyota,JAPON,HATCHBACK,GAS,62.0,6488.0,CarWorld Pacifico,Cali,3994.0,7703.0,191 unidades,2026
+150,toyota,japon,wagon,gas,62.0,"$6,918",Primeauto Andino,,4019.0,8259.0,160,01/01/2023
+151,Toyota,JAPON,wagon,,62.0,7898.0,VelocityMotors,Bucaramanga,5895.0,8361.0,175,2023
+152,TOYOTA,Japon,wagon,gas,62.0,"$8,778",VELOCITYMOTORS,Bucaramanga,6301.0,9736.0,182,2024
+153,TOYOTA,Japon,sedan,GAS,70.0,6938.0,DriveHub Caribe, Barranquilla  ,5010.0,7396.0,208,2024
+154,Toyota,Japon,HATCHBACK,GAS,70.0,7198.0,VELOCITYMOTORS,bucaramanga,4319.0,"$7,920",193 unidades,01/01/2026
+155,Toyota,japon,sedan,diesel,56.0,"$7,898",CarWorld Pacifico,cali,4405.0,8494.0,205,2024
+156,TOYOTA,Japon,hatchback,diesel,56.0,7788.0,velocitymotors,bucaramanga,4756.0,8933.0,171,2025
+157,Toyota,japon,sedan,GAS,70.0,"$7,738",drivehub caribe,Barranquilla,5087.0,8576.0,182,2025
+158,TOYOTA,JAPON,HATCHBACK,Gas,70.0,8358.0,Drivehub Caribe,Barranquilla,5143.0,9063.0,188,2025.0
+159,Toyota,Japon,sedan,gas,70.0,9258.0, PrimeAuto Andino  ,pereira,6625.0,10090.0,137 unidades,2026
+160,Toyota,Japon,sedan,GAS,70.0,8058.0,carworld pacifico,cali,4870.0,8896.0,199,2025
+161,Toyota,Japon,HATCHBACK,gas,70.0,8238.0,  MOTORCENTER SUR   ,medellin,6121.0,8971.0,149,2026
+162,Toyota,Japon,sedan,GAS,112.0,9298.0,Motorcenter Sur,MEDELLIN,5964.0,10395.0,186 u,2025.0
+163,toyota,Japon,hatchback,Gas,112.0,"$9,538",VELOCITYMOTORS,,,"$10,061",182,01/01/2024
+164,toyota,japon,hardtop,Gas,116.0,8449.0,PrimeAuto Andiino,Pereira,4975.0,9226.0,140,2026
+165,  TOYOTA   ,Japon,HARDTOP,Gas,116.0,9639.0,AUTOPLAZA NORTE,bogota,6094.0,10715.0,135,2024
+166,Toyota,Japon,HATCHBACK,gas,,"$9,989",VelocityMotor,  Bucaramanga   ,6891.0,11392.0,188,2023
+167,Toyota,Japon,HARDTOP,gas,116.0,11199.0,PRIMEAUTO ANDINO,PEREIRA,6469.0,12214.0,182,2026
+168,Toyota,japon,hatchback,Gas,116.0,11549.0,carworld pacifico,cali,6659.0,"$12,357",150 unidades,01/01/2023
+169,toyota,Japon,convertible,gas,116.0,"$17,669",carworld pacifico,Cali,13144.0,18754.0,124 unidades,2026
+170,TOYOTA,Japon,  sedan  ,gas,,8948.0,CarWorld Pacifco,CALI,6200.0,"$10,658",177,2025
+171, Toyota  ,japon,sedan,diesel,73.0,10698.0,carworld pacifico,cali,5972.0,11901.0,164 unidades,2026
+172,Toyota,JAPON,hatchback,,92.0,9988.0,Carworld Pacifico,  Cali   ,6290.0,11358.0,183 unidades,2026
+173,Toyota,Japon,sedan,GAS,92.0,"$10,898",PRIMEAUTO ANDINO,,6939.0,12945.0,168 unidades,2025
+174,Toyota,JAPON,hatchback,Gas,92.0,11248.0,primeauto andino,Pereira,7860.0,11950.0,188,2026
+175,Toyota,Japon,Hatchback,gas,,"$16,558",DRIVEHUB CARIBE,Barranquilla,9938.0,19563.0,148,2024.0
+176,Toyota,JAPON,hatchback,,161.0,"$15,998",  motorcenter sur  ,Medellin,9389.0,18122.0,150,2026
+177,TOYOTA,JAPON,sedan,gas,156.0,15690.0,CARWORLD PACIFICO,  Cali  ,8883.0,16862.0,139,2023.0
+178,Toyota,JAPON,wagon,gas,156.0,"$15,750",  AutoPlaza Norte   , Bogota  ,10012.0,"$17,509",136 unidades,2025
+179,volkswagen,Alemania,  sedan  ,diesel,52.0,7775.0, Primeauto Andino  ,,5347.0,"$9,071",175 unidades,2024
+180,VOLKSWAGEN,alemania,SEDAN,GAS,85.0,"$7,975",AUTOPLAZA NORTE,BOGOTA,4479.0,8948.0,204,
+181,VOLKSWAGEN,ALEMANIA,sedan,diesel,52.0,7995.0,autoplaza norte,Bogota,5861.0,9576.0,168,2024
+182,volkswagen,ALEMANIA,  sedan   ,GAS,85.0,8195.0,Auto Plaza Norte,bogota,5232.0,"$9,068",180,2026
+183,volkswagen,ALEMANIA, Sedan  ,GAS,85.0,8495.0,DRIVEHUB CARIBE,Barranquilla,5080.0,9875.0,139,2026
+184,Volkswagen,Alemania,sedan,,,9495.0,  PrimeAuto Andino   ,Pereira,5401.0,"$10,529",180 unidades,2026
+185, Volkswagen  ,Alemania,SEDAN,GAS,100.0,9995.0,autoplaza norte, bogota  ,5863.0,11738.0,199 u,2024.0
+186,volkswagen,Alemania,CONVERTIBLE,gas,90.0,11595.0,carworld pacifico,CALI,8545.0,13165.0,145 unidades,
+187,Volkswagen,Alemania,hatchback,Gas,90.0,9980.0,VelocityMotors,Bucaramanga,,"$10,574",218,2025
+188,  Volkswagen  ,ALEMANIA,sedan,GAS,110.0,13295.0,autoplaza norte, BOGOTA  ,8686.0,"$14,033",159,2024
+189,Volkswagen,Alemania,sedan,Diesel,68.0,13845.0,Drivehub Caribe,barranquilla,9434.0,14815.0,114,2024
+190,volkswagen,alemania,wagon,GAS,88.0,"$12,290",PrimeAuto Andino,pereira,7830.0,12930.0,155,2025.0
+191,  VOLVO   ,Suecia,  sedan   ,gas,114.0,12940.0, DriveHub Caribe  ,barranquilla,9006.0,13733.0,177,2026
+192,VOLVO,Suecia,wagon,gas,114.0,13415.0,autoplaza norte, Bogota  ,7506.0,15478.0,180 unidades,2025
+193,VOLVO,Suecia,sedan,Gas,114.0,15985.0,PrimeAuto Andino,Pereira,10601.0,18065.0,150,2025
+194,VOLVO,SUECIA,wagon,GAS,114.0,16515.0,VelocityMotors,  bucaramanga   ,9607.0,19198.0,159,2023.0
+195,Volvo,Suecia,SEDAN,,162.0,18420.0,  Autoplaza Norte   ,Bogota,,"$21,864",107,01/01/2023
+196,Volvo,Suecia,wagon,gas,162.0,"$18,950",  drivehub caribe   ,barranquilla,11718.0,21561.0,115,2023.0
+197,Volvo,Suecia,sedan,gas,114.0,16845.0,motorcenter sur,  Medellin   ,9574.0,19522.0,109,2026
+198,volvo,SUECIA,sedan,GAS,160.0,19045.0, CARWORLD PACIFICO  ,cali,10833.0,22160.0,114 u,2023.0
+199,Volvo,SUECIA,sedan,gas,134.0,21485.0,DRIVEHUB CARIBE,BARRANQUILLA,13155.0,23777.0,128 unidades,2023
+200,Volvo,SUECIA,Sedan,diesel,106.0,22470.0,PrimeAuto Andiino,PEREIRA,16760.0,24406.0,117,2024
+201,VOLVO,SUECIA,sedan,gas,114.0,"$22,625",AutoPlaza Norte,BOGOTA,13237.0,"$24,452",127,2026
+41,honda,Japon,sedan,gas,101.0,"$12,945",autoplaza norte,bogota,8460.0,"$14,098",180,01/01/2023
+52,MAZDA,Japon,Sedan,gas,68.0,7395.0, Motorcenter Sur  ,Medellin,4453.0,8404.0,194,01/01/2025
+141,subaru,japon,sedan,gas,82.0,9233.0,MotorCenter Sur,medellin,5209.0,"$9,799",183,2025
+133,SAAB,SUECIA,hatchback,gas,160.0,18150.0,PrimeAuto Andino,Pereira,11059.0,21720.0,161,2025
+172,Toyota,JAPON,hatchback,,92.0,9988.0,Carworld Pacifico,  Cali   ,6290.0,11358.0,183 unidades,2026

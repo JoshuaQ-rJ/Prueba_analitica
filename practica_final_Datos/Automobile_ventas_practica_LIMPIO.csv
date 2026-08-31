@@ -1,0 +1,202 @@
+ID_Venta,Marca,Pais_Origen,Tipo_Carroceria,Tipo_Combustible,Caballos_Fuerza,Precio_Catalogo_Original,Sede,Ciudad_Sede,Precio_Construccion,Precio_Publico,Cantidad_Vendida,Anio_Venta,Antiguedad_Vehiculo,Ingreso_Total,Categoria_Precio
+1,Alfa-Romero,Italia,Convertible,Gas,111.0,13495.0,Carworld Pacifico,Cali,8512.0,14204.0,143.0,2025,1,2031172.0,Medio
+2,Alfa-Romero,Italia,Convertible,Gas,103.59358288770053,16500.0,Velocity Motors,Bucaramanga,9289.0,19214.0,121.0,2023,3,2324894.0,Medio
+3,Alfa-Romero,Italia,Hatchback,Gas,154.0,16500.0,Drivehub Caribe,Barranquilla,9913.0,19322.0,140.0,2026,0,2705080.0,Medio
+4,Audi,Alemania,Sedan,Gas,102.0,13950.0,Velocity Motors,Bucaramanga,8361.0,15372.0,147.0,2026,0,2259684.0,Medio
+5,Audi,Alemania,Sedan,Gas,115.0,17450.0,Velocity Motors,Bucaramanga,12028.0,19539.0,81.0,2023,3,1582659.0,Medio
+6,Audi,Alemania,Sedan,Gas,110.0,15250.0,Motorcenter Sur,Medellin,10560.0,17499.0,138.0,2025,1,2414862.0,Medio
+7,Audi,Alemania,Sedan,Gas,110.0,17710.0,Drivehub Caribe,Barranquilla,10265.0,18723.0,129.0,2026,0,2415267.0,Medio
+8,Audi,Alemania,Wagon,Gas,110.0,18920.0,Drivehub Caribe,Barranquilla,14181.0,22560.0,135.0,2024,2,3045600.0,Alto
+9,Audi,Alemania,Sedan,Gas,140.0,23875.0,Drivehub Caribe,Barranquilla,14405.0,28244.0,90.0,2023,3,2541960.0,Alto
+10,Bmw,Alemania,Sedan,Gas,101.0,16430.0,Velocity Motors,Bucaramanga,12246.0,17894.0,178.0,2023,3,3185132.0,Medio
+11,Bmw,Alemania,Sedan,Gas,101.0,16925.0,Carworld Pacifico,Cali,10700.0,17810.0,162.0,2023,3,2885220.0,Medio
+12,Bmw,Alemania,Sedan,Gas,121.0,20970.0,Drivehub Caribe,Barranquilla,11672.0,24955.0,106.0,2026,0,2645230.0,Alto
+13,Bmw,Alemania,Sedan,Gas,121.0,21105.0,Primeauto Andino,Pereira,13064.0,23746.0,134.0,2026,0,3181964.0,Alto
+14,Bmw,Alemania,Sedan,Gas,121.0,24565.0,Velocity Motors,Bucaramanga,16627.0,27781.0,108.0,2023,3,3000348.0,Alto
+15,Bmw,Alemania,Sedan,Gas,182.0,30760.0,Motorcenter Sur,Medellin,21106.0,35454.0,73.0,2024,2,2588142.0,Premium
+16,Bmw,Alemania,Sedan,Gas,182.0,41315.0,Carworld Pacifico,Cali,8545.25925925926,47197.0,34.0,2024,2,1604698.0,Premium
+17,Bmw,Alemania,Sedan,Gas,182.0,36880.0,Primeauto Andino,Pereira,8545.25925925926,43946.0,36.0,2024,2,1582056.0,Premium
+18,Chevrolet,Estados Unidos,Hatchback,Gas,48.0,5151.0,Primeauto Andino,Pereira,3403.0,6138.0,192.0,2026,0,1178496.0,Economico
+19,Chevrolet,Estados Unidos,Hatchback,Gas,70.0,6295.0,Motorcenter Sur,Medellin,4208.0,7429.0,195.0,2024,2,1448655.0,Economico
+20,Chevrolet,Estados Unidos,Sedan,Gas,70.0,6575.0,Carworld Pacifico,Cali,3723.0,7531.0,213.0,2024,2,1604103.0,Economico
+21,Dodge,Estados Unidos,Hatchback,Gas,68.0,5572.0,Velocity Motors,Bucaramanga,3477.0,6520.0,190.0,2024,2,1238800.0,Economico
+22,Dodge,Estados Unidos,Hatchback,Gas,68.0,6377.0,Autoplaza Norte,Bogota,3816.0,7344.0,176.0,2025,1,1292544.0,Economico
+23,Dodge,Estados Unidos,Hatchback,Gas,103.59358288770053,7957.0,Carworld Pacifico,Cali,5654.0,9039.0,146.0,2024,2,1319694.0,Economico
+24,Dodge,Estados Unidos,Hatchback,Gas,68.0,6229.0,Motorcenter Sur,Medellin,4012.0,6661.0,215.0,2026,0,1432115.0,Economico
+25,Dodge,Estados Unidos,Sedan,Gas,68.0,6692.0,Primeauto Andino,Pereira,4997.0,7841.0,177.0,2026,0,1387857.0,Economico
+26,Dodge,Estados Unidos,Sedan,Gas,68.0,7609.0,Velocity Motors,Bucaramanga,4792.0,8926.0,185.0,2026,0,1651310.0,Economico
+27,Dodge,Estados Unidos,Sedan,Gas,102.0,8558.0,Carworld Pacifico,Cali,6104.0,9789.0,202.0,2025,1,1977378.0,Economico
+28,Dodge,Estados Unidos,Wagon,Gas,88.0,8921.0,Autoplaza Norte,Bogota,6331.0,10465.0,174.0,2023,3,1820910.0,Medio
+29,Dodge,Estados Unidos,Hatchback,Gas,145.0,12964.0,Autoplaza Norte,Bogota,7521.0,14879.0,150.0,2025,1,2231850.0,Medio
+30,Honda,Japon,Hatchback,Gas,58.0,6479.0,Drivehub Caribe,Barranquilla,8545.25925925926,7004.0,206.0,2026,0,1442824.0,Economico
+31,Honda,Japon,Hatchback,Gas,76.0,6855.0,Drivehub Caribe,Barranquilla,4724.0,7479.0,189.0,2026,0,1413531.0,Economico
+32,Honda,Japon,Hatchback,Gas,60.0,5399.0,Motorcenter Sur,Medellin,3896.0,5843.0,198.0,2025,1,1156914.0,Economico
+33,Honda,Japon,Hatchback,Gas,76.0,6529.0,Carworld Pacifico,Cali,4017.0,7225.0,161.0,2025,1,1163225.0,Economico
+34,Honda,Japon,Hatchback,Gas,76.0,7129.0,Carworld Pacifico,Cali,4235.0,7527.0,200.0,2026,0,1505400.0,Economico
+35,Honda,Japon,Sedan,Gas,76.0,7295.0,Primeauto Andino,Pereira,5050.0,8336.0,185.0,2025,1,1542160.0,Economico
+36,Honda,Japon,Wagon,Gas,76.0,7295.0,Primeauto Andino,Cali,5193.0,8028.0,160.0,2023,3,1284480.0,Economico
+37,Honda,Japon,Hatchback,Gas,86.0,7895.0,Primeauto Andino,Pereira,4893.0,9066.0,183.0,2026,0,1659078.0,Economico
+38,Honda,Japon,Hatchback,Gas,103.59358288770053,9095.0,Drivehub Caribe,Barranquilla,5177.0,10076.0,141.0,2024,2,1420716.0,Medio
+39,Honda,Japon,Sedan,Gas,86.0,8845.0,Carworld Pacifico,Cali,6529.0,10192.0,207.0,2025,1,2109744.0,Medio
+40,Honda,Japon,Sedan,Gas,86.0,10295.0,Carworld Pacifico,Cali,6481.0,11336.0,150.0,2024,2,1700400.0,Medio
+41,Honda,Japon,Sedan,Gas,101.0,12945.0,Autoplaza Norte,Bogota,8460.0,14098.0,180.0,2023,3,2537640.0,Medio
+42,Honda,Japon,Sedan,Gas,100.0,10345.0,Drivehub Caribe,Barranquilla,8545.25925925926,11632.0,153.0,2024,2,1779696.0,Medio
+43,Isuzu,Japon,Sedan,Gas,78.0,6785.0,Velocity Motors,Bucaramanga,4649.0,7829.0,189.0,2026,0,1479681.0,Economico
+44,Isuzu,Japon,Hatchback,Gas,90.0,11048.0,Drivehub Caribe,Barranquilla,7701.0,12178.0,150.0,2024,2,1826700.0,Medio
+45,Jaguar,Reino Unido,Sedan,Gas,176.0,32250.0,Velocity Motors,Bucaramanga,19086.0,38394.0,72.0,2024,2,2764368.0,Premium
+46,Jaguar,Reino Unido,Sedan,Gas,176.0,35550.0,Autoplaza Norte,Bogota,23402.0,37536.0,57.0,2024,2,2139552.0,Premium
+47,Jaguar,Reino Unido,Sedan,Gas,262.0,36000.0,Motorcenter Sur,Medellin,24810.0,40057.0,58.0,2025,1,2323306.0,Premium
+48,Mazda,Japon,Hatchback,Gas,68.0,5195.0,Carworld Pacifico,Cali,3095.0,6209.0,188.0,2026,0,1167292.0,Economico
+49,Mazda,Japon,Hatchback,Gas,68.0,6095.0,Autoplaza Norte,Bogota,3566.0,6901.0,164.0,2025,1,1131764.0,Economico
+50,Mazda,Japon,Hatchback,Gas,68.0,6795.0,Carworld Pacifico,Cali,5072.0,7566.0,190.0,2025,1,1437540.0,Economico
+51,Mazda,Japon,Sedan,Gas,103.59358288770053,6695.0,Primeauto Andino,Pereira,4374.0,7601.0,174.0,2026,0,1322574.0,Economico
+52,Mazda,Japon,Sedan,Gas,68.0,7395.0,Motorcenter Sur,Medellin,4453.0,8404.0,194.0,2025,1,1630376.0,Economico
+53,Mazda,Japon,Hatchback,Gas,101.0,10945.0,Motorcenter Sur,Medellin,8201.0,12693.0,158.0,2024,2,2005494.0,Medio
+54,Mazda,Japon,Hatchback,Gas,103.59358288770053,11845.0,Autoplaza Norte,Bogota,8802.0,12664.0,160.0,2024,2,2026240.0,Medio
+55,Mazda,Japon,Hatchback,Gas,101.0,13645.0,Motorcenter Sur,Medellin,9028.0,14839.0,178.0,2024,2,2641342.0,Medio
+56,Mazda,Japon,Hatchback,Gas,135.0,15645.0,Velocity Motors,Cali,11367.0,17790.0,176.0,2026,0,3131040.0,Medio
+57,Mazda,Japon,Hatchback,Gas,84.0,8845.0,Motorcenter Sur,Medellin,5199.0,10438.0,182.0,2025,1,1899716.0,Medio
+58,Mazda,Japon,Sedan,Gas,84.0,8495.0,Carworld Pacifico,Cali,5146.0,9636.0,169.0,2026,0,1628484.0,Economico
+59,Mazda,Japon,Hatchback,Gas,84.0,10595.0,Carworld Pacifico,Cali,7311.0,11504.0,161.0,2024,2,1852144.0,Medio
+60,Mazda,Japon,Sedan,Gas,84.0,10245.0,Carworld Pacifico,Cali,7370.0,11802.0,153.0,2025,1,1805706.0,Medio
+61,Mazda,Japon,Sedan,Diesel,64.0,10795.0,Carworld Pacifico,Cali,7786.0,12533.0,153.0,2025,1,1917549.0,Medio
+62,Mazda,Japon,Hatchback,Gas,84.0,11245.0,Velocity Motors,Bucaramanga,7094.0,12209.0,159.0,2024,2,1941231.0,Medio
+63,Mazda,Japon,Sedan,Gas,120.0,18280.0,Drivehub Caribe,Barranquilla,13300.0,20230.0,160.0,2026,0,3236800.0,Alto
+64,Mazda,Japon,Sedan,Diesel,72.0,18344.0,Primeauto Andino,Pereira,13211.0,20731.0,126.0,2025,1,2612106.0,Alto
+65,Mercedes-Benz,Alemania,Sedan,Diesel,123.0,25552.0,Autoplaza Norte,Bogota,18835.0,28733.0,78.0,2024,2,2241174.0,Alto
+66,Mercedes-Benz,Alemania,Wagon,Diesel,123.0,28248.0,Carworld Pacifico,Cali,19973.0,31311.0,87.0,2026,0,2724057.0,Premium
+67,Mercedes-Benz,Alemania,Hardtop,Diesel,123.0,28176.0,Motorcenter Sur,Medellin,19267.0,30843.0,91.0,2025,1,2806713.0,Premium
+68,Mercedes-Benz,Alemania,Sedan,Diesel,123.0,31600.0,Carworld Pacifico,Cali,21050.0,33654.0,77.0,2025,1,2591358.0,Premium
+69,Mercedes-Benz,Alemania,Sedan,Gas,155.0,34184.0,Motorcenter Sur,Medellin,21346.0,36167.0,78.0,2025,1,2821026.0,Premium
+70,Mercedes-Benz,Alemania,Convertible,Gas,155.0,35056.0,Primeauto Andino,Pereira,25872.0,41849.0,44.0,2025,1,1841356.0,Premium
+71,Mercedes-Benz,Alemania,Sedan,Gas,184.0,40960.0,Primeauto Andino,Pereira,30504.0,48213.0,29.0,2026,0,1398177.0,Premium
+72,Mercedes-Benz,Alemania,Hardtop,Gas,184.0,45400.0,Primeauto Andino,Pereira,27548.0,50087.0,1.0,2023,3,50087.0,Premium
+73,Mercury,Estados Unidos,Hatchback,Gas,175.0,16503.0,Motorcenter Sur,Medellin,10085.0,19697.0,160.0,2024,2,3151520.0,Medio
+74,Mitsubishi,Japon,Hatchback,Gas,68.0,5389.0,Carworld Pacifico,Cali,3487.0,6206.0,191.0,2023,3,1185346.0,Economico
+75,Mitsubishi,Japon,Hatchback,Gas,68.0,6189.0,Primeauto Andino,Pereira,3959.0,6946.0,191.0,2026,0,1326686.0,Economico
+76,Mitsubishi,Japon,Hatchback,Gas,68.0,6669.0,Velocity Motors,Bucaramanga,4994.0,7496.0,171.0,2024,2,1281816.0,Economico
+77,Mitsubishi,Japon,Hatchback,Gas,102.0,7689.0,Motorcenter Sur,Medellin,4499.0,8170.0,187.0,2026,0,1527790.0,Economico
+78,Mitsubishi,Japon,Hatchback,Gas,116.0,9959.0,Motorcenter Sur,Medellin,5513.0,10594.0,180.0,2025,1,1906920.0,Medio
+79,Mitsubishi,Japon,Hatchback,Gas,103.59358288770053,8499.0,Carworld Pacifico,Cali,5514.0,9692.0,156.0,2026,0,1511952.0,Economico
+80,Mitsubishi,Japon,Hatchback,Gas,145.0,12629.0,Motorcenter Sur,Medellin,7398.0,14309.0,130.0,2026,0,1860170.0,Medio
+81,Mitsubishi,Japon,Hatchback,Gas,145.0,14869.0,Motorcenter Sur,Medellin,9268.0,16087.0,152.0,2026,0,2445224.0,Medio
+82,Mitsubishi,Japon,Hatchback,Gas,145.0,14489.0,Primeauto Andino,Pereira,10125.0,17270.0,136.0,2026,0,2348720.0,Medio
+83,Mitsubishi,Japon,Sedan,Gas,88.0,6989.0,Carworld Pacifico,Cali,4852.0,8158.0,184.0,2025,1,1501072.0,Economico
+84,Mitsubishi,Japon,Sedan,Gas,88.0,8189.0,Primeauto Andino,Pereira,8545.25925925926,8738.0,158.0,2026,0,1380604.0,Economico
+85,Mitsubishi,Japon,Sedan,Gas,116.0,9279.0,Primeauto Andino,Pereira,6110.0,11039.0,145.0,2024,2,1600655.0,Medio
+86,Mitsubishi,Japon,Sedan,Gas,116.0,9279.0,Carworld Pacifico,Cali,6048.0,11099.0,171.0,2024,2,1897929.0,Medio
+87,Nissan,Japon,Sedan,Gas,69.0,5499.0,Autoplaza Norte,Bogota,3724.0,6595.0,181.0,2026,0,1193695.0,Economico
+88,Nissan,Japon,Sedan,Diesel,55.0,7099.0,Primeauto Andino,Pereira,8545.25925925926,7513.0,151.0,2025,1,1134463.0,Economico
+89,Nissan,Japon,Sedan,Gas,69.0,6649.0,Velocity Motors,Bucaramanga,4441.0,7717.0,202.0,2024,2,1558834.0,Economico
+90,Nissan,Japon,Sedan,Gas,69.0,6849.0,Velocity Motors,Bucaramanga,8545.25925925926,7752.0,162.0,2025,1,1255824.0,Economico
+91,Nissan,Japon,Wagon,Gas,69.0,7349.0,Motorcenter Sur,Medellin,4757.0,8495.0,217.0,2026,0,1843415.0,Economico
+92,Nissan,Japon,Sedan,Gas,69.0,7299.0,Velocity Motors,Bucaramanga,5337.0,8724.0,168.0,2025,1,1465632.0,Economico
+93,Nissan,Japon,Hatchback,Gas,69.0,7799.0,Motorcenter Sur,Medellin,4967.0,8994.0,182.0,2026,0,1636908.0,Economico
+94,Nissan,Japon,Sedan,Gas,69.0,7499.0,Autoplaza Norte,Bogota,4649.0,8815.0,202.0,2026,0,1780630.0,Economico
+95,Nissan,Japon,Wagon,Gas,69.0,7999.0,Carworld Pacifico,Cali,5431.0,9439.0,197.0,2026,0,1859483.0,Economico
+96,Nissan,Japon,Hardtop,Gas,69.0,8249.0,Carworld Pacifico,Cali,5641.0,9699.0,203.0,2025,1,1968897.0,Economico
+97,Nissan,Japon,Hatchback,Gas,97.0,8949.0,Carworld Pacifico,Cali,6469.0,9968.0,150.0,2026,0,1495200.0,Economico
+98,Nissan,Japon,Sedan,Gas,97.0,9549.0,Velocity Motors,Bucaramanga,5692.0,10345.0,154.0,2026,0,1593130.0,Medio
+99,Nissan,Japon,Sedan,Gas,152.0,13499.0,Autoplaza Norte,Bogota,8772.0,14977.0,156.0,2026,0,2336412.0,Medio
+100,Nissan,Japon,Wagon,Gas,152.0,14399.0,Velocity Motors,Bucaramanga,9567.0,17045.0,156.0,2023,3,2659020.0,Medio
+101,Nissan,Japon,Sedan,Gas,152.0,13499.0,Velocity Motors,Bucaramanga,9499.0,14471.0,154.0,2025,1,2228534.0,Medio
+102,Nissan,Japon,Hatchback,Gas,160.0,17199.0,Autoplaza Norte,Bogota,9609.0,19383.0,110.0,2024,2,2132130.0,Medio
+103,Nissan,Japon,Hatchback,Gas,200.0,19699.0,Autoplaza Norte,Bogota,14753.0,21373.0,134.0,2023,3,2863982.0,Alto
+104,Nissan,Japon,Hatchback,Gas,160.0,18399.0,Autoplaza Norte,Bogota,11849.0,20923.0,125.0,2025,1,2615375.0,Alto
+105,Peugot,Francia,Sedan,Gas,97.0,11900.0,Autoplaza Norte,Bogota,7210.0,14036.0,153.0,2026,0,2147508.0,Medio
+106,Peugot,Francia,Sedan,Diesel,95.0,13200.0,Carworld Pacifico,Cali,9592.0,15603.0,115.0,2026,0,1794345.0,Medio
+107,Peugot,Francia,Wagon,Gas,97.0,12440.0,Drivehub Caribe,Barranquilla,8702.0,13504.0,170.0,2023,3,2295680.0,Medio
+108,Peugot,Francia,Wagon,Diesel,95.0,13860.0,Drivehub Caribe,Barranquilla,10265.0,16440.0,148.0,2026,0,2433120.0,Medio
+109,Peugot,Francia,Sedan,Gas,95.0,15580.0,Autoplaza Norte,Bogota,9600.0,17742.0,168.0,2025,1,2980656.0,Medio
+110,Peugot,Francia,Sedan,Diesel,95.0,16900.0,Drivehub Caribe,Cali,11163.0,18633.0,136.0,2026,0,2534088.0,Medio
+111,Peugot,Francia,Wagon,Gas,95.0,16695.0,Drivehub Caribe,Barranquilla,11093.0,19303.0,143.0,2026,0,2760329.0,Medio
+112,Peugot,Francia,Wagon,Diesel,95.0,17075.0,Autoplaza Norte,Bogota,12739.0,19162.0,148.0,2025,1,2835976.0,Medio
+113,Peugot,Francia,Sedan,Gas,97.0,16630.0,Drivehub Caribe,Barranquilla,9397.0,18404.0,112.0,2026,0,2061248.0,Medio
+114,Peugot,Francia,Sedan,Diesel,95.0,17950.0,Velocity Motors,Bucaramanga,10970.0,20746.0,168.0,2026,0,3485328.0,Alto
+115,Peugot,Francia,Sedan,Gas,142.0,18150.0,Motorcenter Sur,Medellin,10676.0,19735.0,126.0,2024,2,2486610.0,Medio
+116,Plymouth,Estados Unidos,Hatchback,Gas,103.59358288770053,5572.0,Motorcenter Sur,Medellin,3364.0,6127.0,195.0,2023,3,1194765.0,Economico
+117,Plymouth,Estados Unidos,Hatchback,Gas,102.0,7957.0,Autoplaza Norte,Bogota,5149.0,8873.0,186.0,2026,0,1650378.0,Economico
+118,Plymouth,Estados Unidos,Hatchback,Gas,68.0,6229.0,Carworld Pacifico,Cali,3890.0,6777.0,173.0,2024,2,1172421.0,Economico
+119,Plymouth,Estados Unidos,Sedan,Gas,68.0,6692.0,Autoplaza Norte,Bogota,4209.0,7433.0,210.0,2026,0,1560930.0,Economico
+120,Plymouth,Estados Unidos,Sedan,Gas,68.0,7609.0,Carworld Pacifico,Cali,8545.25925925926,8642.0,182.0,2026,0,1572844.0,Economico
+121,Plymouth,Estados Unidos,Wagon,Gas,88.0,8921.0,Motorcenter Sur,Medellin,6566.0,10359.0,168.0,2026,0,1740312.0,Medio
+122,Plymouth,Estados Unidos,Hatchback,Gas,145.0,12764.0,Autoplaza Norte,Bogota,7200.0,14871.0,155.0,2024,2,2305005.0,Medio
+123,Porsche,Alemania,Hatchback,Gas,103.59358288770053,22018.0,Primeauto Andino,Pereira,13030.0,25836.0,120.0,2026,0,3100320.0,Alto
+124,Porsche,Alemania,Hardtop,Gas,207.0,32528.0,Velocity Motors,Bucaramanga,22257.0,37786.0,60.0,2026,0,2267160.0,Premium
+125,Porsche,Alemania,Hardtop,Gas,207.0,34028.0,Drivehub Caribe,Barranquilla,21156.0,39206.0,67.0,2023,3,2626802.0,Premium
+126,Porsche,Alemania,Convertible,Gas,207.0,37028.0,Carworld Pacifico,Cali,22248.0,40199.0,25.0,2026,0,1004975.0,Premium
+127,Renault,Francia,Wagon,Gas,103.59358288770053,9295.0,Primeauto Andino,Pereira,5661.0,10318.0,160.0,2026,0,1650880.0,Medio
+128,Renault,Francia,Hatchback,Gas,103.59358288770053,9895.0,Drivehub Caribe,Cali,6081.0,11099.0,136.0,2025,1,1509464.0,Medio
+129,Saab,Suecia,Hatchback,Gas,110.0,11850.0,Drivehub Caribe,Barranquilla,8529.0,12590.0,192.0,2024,2,2417280.0,Medio
+130,Saab,Suecia,Sedan,Gas,110.0,12170.0,Autoplaza Norte,Bogota,7026.0,13743.0,187.0,2025,1,2569941.0,Medio
+131,Saab,Suecia,Hatchback,Gas,110.0,15040.0,Drivehub Caribe,Barranquilla,10404.0,16776.0,154.0,2025,1,2583504.0,Medio
+132,Saab,Suecia,Sedan,Gas,110.0,15510.0,Velocity Motors,Bucaramanga,10245.0,18152.0,124.0,2026,0,2250848.0,Medio
+133,Saab,Suecia,Hatchback,Gas,160.0,18150.0,Primeauto Andino,Pereira,11059.0,21720.0,161.0,2025,1,3496920.0,Alto
+134,Saab,Suecia,Sedan,Gas,160.0,18620.0,Drivehub Caribe,Barranquilla,11804.0,21104.0,118.0,2025,1,2490272.0,Alto
+135,Subaru,Japon,Hatchback,Gas,69.0,5118.0,Autoplaza Norte,Bogota,3077.0,5622.0,187.0,2024,2,1051314.0,Economico
+136,Subaru,Japon,Hatchback,Gas,73.0,7053.0,Velocity Motors,Bucaramanga,4742.0,7452.0,185.0,2025,1,1378620.0,Economico
+137,Subaru,Japon,Hatchback,Gas,73.0,7603.0,Motorcenter Sur,Medellin,8545.25925925926,9038.0,183.0,2025,1,1653954.0,Economico
+138,Subaru,Japon,Sedan,Gas,82.0,7126.0,Primeauto Andino,Pereira,3927.0,8465.0,188.0,2023,3,1591420.0,Economico
+139,Subaru,Japon,Sedan,Gas,82.0,7775.0,Drivehub Caribe,Barranquilla,5253.0,8459.0,189.0,2026,0,1598751.0,Economico
+140,Subaru,Japon,Sedan,Gas,94.0,9960.0,Autoplaza Norte,Bogota,5865.0,11497.0,164.0,2026,0,1885508.0,Medio
+141,Subaru,Japon,Sedan,Gas,82.0,9233.0,Motorcenter Sur,Medellin,5209.0,9799.0,183.0,2025,1,1793217.0,Economico
+142,Subaru,Japon,Sedan,Gas,111.0,11259.0,Motorcenter Sur,Medellin,7086.0,12103.0,161.0,2026,0,1948583.0,Medio
+143,Subaru,Japon,Wagon,Gas,82.0,7463.0,Carworld Pacifico,Cali,4180.0,8079.0,189.0,2025,1,1526931.0,Economico
+144,Subaru,Japon,Wagon,Gas,94.0,10198.0,Velocity Motors,Bucaramanga,7417.0,11158.0,175.0,2026,0,1952650.0,Medio
+145,Subaru,Japon,Wagon,Gas,82.0,8013.0,Drivehub Caribe,Barranquilla,4451.0,9611.0,185.0,2025,1,1778035.0,Economico
+146,Subaru,Japon,Wagon,Gas,111.0,11694.0,Autoplaza Norte,Bogota,7786.0,13501.0,168.0,2026,0,2268168.0,Medio
+147,Toyota,Japon,Hatchback,Gas,62.0,5348.0,Carworld Pacifico,Cali,3410.0,5924.0,182.0,2025,1,1078168.0,Economico
+148,Toyota,Japon,Hatchback,Gas,62.0,6338.0,Velocity Motors,Bucaramanga,4338.0,7356.0,190.0,2025,1,1397640.0,Economico
+149,Toyota,Japon,Hatchback,Gas,62.0,6488.0,Carworld Pacifico,Cali,3994.0,7703.0,191.0,2026,0,1471273.0,Economico
+150,Toyota,Japon,Wagon,Gas,62.0,6918.0,Primeauto Andino,Cali,4019.0,8259.0,160.0,2023,3,1321440.0,Economico
+151,Toyota,Japon,Wagon,Gas,62.0,7898.0,Velocity Motors,Bucaramanga,5895.0,8361.0,175.0,2023,3,1463175.0,Economico
+152,Toyota,Japon,Wagon,Gas,62.0,8778.0,Velocity Motors,Bucaramanga,6301.0,9736.0,182.0,2024,2,1771952.0,Economico
+153,Toyota,Japon,Sedan,Gas,70.0,6938.0,Drivehub Caribe,Barranquilla,5010.0,7396.0,208.0,2024,2,1538368.0,Economico
+154,Toyota,Japon,Hatchback,Gas,70.0,7198.0,Velocity Motors,Bucaramanga,4319.0,7920.0,193.0,2026,0,1528560.0,Economico
+155,Toyota,Japon,Sedan,Diesel,56.0,7898.0,Carworld Pacifico,Cali,4405.0,8494.0,205.0,2024,2,1741270.0,Economico
+156,Toyota,Japon,Hatchback,Diesel,56.0,7788.0,Velocity Motors,Bucaramanga,4756.0,8933.0,171.0,2025,1,1527543.0,Economico
+157,Toyota,Japon,Sedan,Gas,70.0,7738.0,Drivehub Caribe,Barranquilla,5087.0,8576.0,182.0,2025,1,1560832.0,Economico
+158,Toyota,Japon,Hatchback,Gas,70.0,8358.0,Drivehub Caribe,Barranquilla,5143.0,9063.0,188.0,2025,1,1703844.0,Economico
+159,Toyota,Japon,Sedan,Gas,70.0,9258.0,Primeauto Andino,Pereira,6625.0,10090.0,137.0,2026,0,1382330.0,Medio
+160,Toyota,Japon,Sedan,Gas,70.0,8058.0,Carworld Pacifico,Cali,4870.0,8896.0,199.0,2025,1,1770304.0,Economico
+161,Toyota,Japon,Hatchback,Gas,70.0,8238.0,Motorcenter Sur,Medellin,6121.0,8971.0,149.0,2026,0,1336679.0,Economico
+162,Toyota,Japon,Sedan,Gas,112.0,9298.0,Motorcenter Sur,Medellin,5964.0,10395.0,186.0,2025,1,1933470.0,Medio
+163,Toyota,Japon,Hatchback,Gas,112.0,9538.0,Velocity Motors,Cali,8545.25925925926,10061.0,182.0,2024,2,1831102.0,Medio
+164,Toyota,Japon,Hardtop,Gas,116.0,8449.0,Primeauto Andino,Pereira,4975.0,9226.0,140.0,2026,0,1291640.0,Economico
+165,Toyota,Japon,Hardtop,Gas,116.0,9639.0,Autoplaza Norte,Bogota,6094.0,10715.0,135.0,2024,2,1446525.0,Medio
+166,Toyota,Japon,Hatchback,Gas,103.59358288770053,9989.0,Velocity Motors,Bucaramanga,6891.0,11392.0,188.0,2023,3,2141696.0,Medio
+167,Toyota,Japon,Hardtop,Gas,116.0,11199.0,Primeauto Andino,Pereira,6469.0,12214.0,182.0,2026,0,2222948.0,Medio
+168,Toyota,Japon,Hatchback,Gas,116.0,11549.0,Carworld Pacifico,Cali,6659.0,12357.0,150.0,2023,3,1853550.0,Medio
+169,Toyota,Japon,Convertible,Gas,116.0,17669.0,Carworld Pacifico,Cali,13144.0,18754.0,124.0,2026,0,2325496.0,Medio
+170,Toyota,Japon,Sedan,Gas,103.59358288770053,8948.0,Carworld Pacifico,Cali,6200.0,10658.0,177.0,2025,1,1886466.0,Medio
+171,Toyota,Japon,Sedan,Diesel,73.0,10698.0,Carworld Pacifico,Cali,5972.0,11901.0,164.0,2026,0,1951764.0,Medio
+172,Toyota,Japon,Hatchback,Gas,92.0,9988.0,Carworld Pacifico,Cali,6290.0,11358.0,183.0,2026,0,2078514.0,Medio
+173,Toyota,Japon,Sedan,Gas,92.0,10898.0,Primeauto Andino,Cali,6939.0,12945.0,168.0,2025,1,2174760.0,Medio
+174,Toyota,Japon,Hatchback,Gas,92.0,11248.0,Primeauto Andino,Pereira,7860.0,11950.0,188.0,2026,0,2246600.0,Medio
+175,Toyota,Japon,Hatchback,Gas,103.59358288770053,16558.0,Drivehub Caribe,Barranquilla,9938.0,19563.0,148.0,2024,2,2895324.0,Medio
+176,Toyota,Japon,Hatchback,Gas,161.0,15998.0,Motorcenter Sur,Medellin,9389.0,18122.0,150.0,2026,0,2718300.0,Medio
+177,Toyota,Japon,Sedan,Gas,156.0,15690.0,Carworld Pacifico,Cali,8883.0,16862.0,139.0,2023,3,2343818.0,Medio
+178,Toyota,Japon,Wagon,Gas,156.0,15750.0,Autoplaza Norte,Bogota,10012.0,17509.0,136.0,2025,1,2381224.0,Medio
+179,Volkswagen,Alemania,Sedan,Diesel,52.0,7775.0,Primeauto Andino,Cali,5347.0,9071.0,175.0,2024,2,1587425.0,Economico
+180,Volkswagen,Alemania,Sedan,Gas,85.0,7975.0,Autoplaza Norte,Bogota,4479.0,8948.0,204.0,2026,0,1825392.0,Economico
+181,Volkswagen,Alemania,Sedan,Diesel,52.0,7995.0,Autoplaza Norte,Bogota,5861.0,9576.0,168.0,2024,2,1608768.0,Economico
+182,Volkswagen,Alemania,Sedan,Gas,85.0,8195.0,Autoplaza Norte,Bogota,5232.0,9068.0,180.0,2026,0,1632240.0,Economico
+183,Volkswagen,Alemania,Sedan,Gas,85.0,8495.0,Drivehub Caribe,Barranquilla,5080.0,9875.0,139.0,2026,0,1372625.0,Economico
+184,Volkswagen,Alemania,Sedan,Gas,103.59358288770053,9495.0,Primeauto Andino,Pereira,5401.0,10529.0,180.0,2026,0,1895220.0,Medio
+185,Volkswagen,Alemania,Sedan,Gas,100.0,9995.0,Autoplaza Norte,Bogota,5863.0,11738.0,199.0,2024,2,2335862.0,Medio
+186,Volkswagen,Alemania,Convertible,Gas,90.0,11595.0,Carworld Pacifico,Cali,8545.0,13165.0,145.0,2026,0,1908925.0,Medio
+187,Volkswagen,Alemania,Hatchback,Gas,90.0,9980.0,Velocity Motors,Bucaramanga,8545.25925925926,10574.0,218.0,2025,1,2305132.0,Medio
+188,Volkswagen,Alemania,Sedan,Gas,110.0,13295.0,Autoplaza Norte,Bogota,8686.0,14033.0,159.0,2024,2,2231247.0,Medio
+189,Volkswagen,Alemania,Sedan,Diesel,68.0,13845.0,Drivehub Caribe,Barranquilla,9434.0,14815.0,114.0,2024,2,1688910.0,Medio
+190,Volkswagen,Alemania,Wagon,Gas,88.0,12290.0,Primeauto Andino,Pereira,7830.0,12930.0,155.0,2025,1,2004150.0,Medio
+191,Volvo,Suecia,Sedan,Gas,114.0,12940.0,Drivehub Caribe,Barranquilla,9006.0,13733.0,177.0,2026,0,2430741.0,Medio
+192,Volvo,Suecia,Wagon,Gas,114.0,13415.0,Autoplaza Norte,Bogota,7506.0,15478.0,180.0,2025,1,2786040.0,Medio
+193,Volvo,Suecia,Sedan,Gas,114.0,15985.0,Primeauto Andino,Pereira,10601.0,18065.0,150.0,2025,1,2709750.0,Medio
+194,Volvo,Suecia,Wagon,Gas,114.0,16515.0,Velocity Motors,Bucaramanga,9607.0,19198.0,159.0,2023,3,3052482.0,Medio
+195,Volvo,Suecia,Sedan,Gas,162.0,18420.0,Autoplaza Norte,Bogota,8545.25925925926,21864.0,107.0,2023,3,2339448.0,Alto
+196,Volvo,Suecia,Wagon,Gas,162.0,18950.0,Drivehub Caribe,Barranquilla,11718.0,21561.0,115.0,2023,3,2479515.0,Alto
+197,Volvo,Suecia,Sedan,Gas,114.0,16845.0,Motorcenter Sur,Medellin,9574.0,19522.0,109.0,2026,0,2127898.0,Medio
+198,Volvo,Suecia,Sedan,Gas,160.0,19045.0,Carworld Pacifico,Cali,10833.0,22160.0,114.0,2023,3,2526240.0,Alto
+199,Volvo,Suecia,Sedan,Gas,134.0,21485.0,Drivehub Caribe,Barranquilla,13155.0,23777.0,128.0,2023,3,3043456.0,Alto
+200,Volvo,Suecia,Sedan,Diesel,106.0,22470.0,Primeauto Andino,Pereira,16760.0,24406.0,117.0,2024,2,2855502.0,Alto
+201,Volvo,Suecia,Sedan,Gas,114.0,22625.0,Autoplaza Norte,Bogota,13237.0,24452.0,127.0,2026,0,3105404.0,Alto

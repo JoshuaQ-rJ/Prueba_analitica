@@ -10,11 +10,10 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-
 def solicitar_ruta() -> Path | None:
     """Pide una ruta existente de CSV, XLSX o XLS."""
     try:
-        ruta = Path('1_finanzas.csv') 
+        ruta = Path('Automobile_ventas_practica_SUCIO.csv') 
         if not ruta.is_file():
             print("Error: no se encontró el archivo indicado.")
             return None

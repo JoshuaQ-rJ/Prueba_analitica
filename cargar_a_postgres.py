@@ -15,7 +15,7 @@ from psycopg2.extras import execute_values
 # -----------------------------------------------------------------------------
 # CONFIGURACIÓN MANUAL: edita estos valores antes de ejecutar el script.
 # -----------------------------------------------------------------------------
-DATASET_PATH = "gitnombre_ejemplo.csv"  # Ruta absoluta o relativa de tu CSV/XLSX limpio. Ej.: r"C:\ruta\finanzas_limpio.csv"
+DATASET_PATH = "Automobile_data_limpio.csv"  # Ruta absoluta o relativa de tu CSV/XLSX limpio. Ej.: r"C:\ruta\finanzas_limpio.csv"
 
 # Según el docker-compose.yml raíz: PostgreSQL se publica en localhost:5433.
 DB_HOST = "localhost"       # Host del contenedor; usa localhost si ejecutas Python en tu equipo.
