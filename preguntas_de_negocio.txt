@@ -1,0 +1,12 @@
+
+¿Qué marcas y tipos de carrocería generan mayor ingreso total (Precio_Publico × Cantidad_Vendida), y cómo se compara eso con su volumen de unidades vendidas?
+¿Cuál es el margen promedio (Precio_Publico − Precio_Construccion) por marca o por sede, y qué sedes/ciudades están operando con márgenes más bajos?
+¿Cómo ha evolucionado la cantidad vendida año a año (2023-2026) por ciudad sede, y qué sedes muestran crecimiento vs. declive?
+¿Existe relación entre el tipo de combustible (Gas vs. Diesel) y el precio público o los caballos de fuerza, y qué segmento es más rentable?
+¿Qué sede tiene mejor desempeño en ventas totales y cuáles están por debajo del promedio, considerando que hay nombres de sede inconsistentes (ej. "Carworld Pacifico" vs "Car World Pacifico" vs "Carworld Pacifco") que primero habría que estandarizar?
+	
+
+
+
+
+ 
